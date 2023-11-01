@@ -13,6 +13,11 @@ Welcome to the Unreal Quest 3 Scene Sample project! This repository provides a c
 
 - **Real-Time Occlusion**: The project includes a custom shader that effectively occludes real-life objects in the scene. This allows for interactions and integration of real-world objects with virtual content, creating a more immersive mixed reality environment.
 
+- **Scene Data Integration**: Use the passthrough data to access and interact with real-world objects. For example, by pressing a button, you can highlight tables or couches in your physical room. The Quest 3's passthrough data is utilized to spawn virtual objects such as meshes or materials.
+
+- **User Interface for Real-Time Manipulation**: A user interface (UI) pops up when you press the menu button. This UI enables you to hide/show real-life tables and make them behave like occluders, seamlessly blending your virtual and physical environment.
+
+
 ## Getting Started
 
 To get started with this project, follow these steps:
