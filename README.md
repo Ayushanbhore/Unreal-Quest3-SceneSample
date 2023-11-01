@@ -17,6 +17,7 @@ Welcome to the Unreal Quest 3 Scene Sample project! This repository provides a c
 
 - **User Interface for Real-Time Manipulation**: A user interface (UI) pops up when you press the menu button. This UI enables you to hide/show real-life tables and make them behave like occluders, seamlessly blending your virtual and physical environment.
 
+- **Masking Real-Life Objects into Virtual Reality**: A new feature allows you to mask real-life objects into virtual reality. This means that real-world objects can be seamlessly integrated into your VR experience, with the ability to cut them from the virtual environment, allowing you to see your VR content along with the masked reality.
 
 ## Getting Started
 
