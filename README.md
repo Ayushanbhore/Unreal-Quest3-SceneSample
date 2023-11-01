@@ -1,11 +1,13 @@
-# Unreal-Quest3-SceneSample
-Map out your Space and Highlight Scene Objects
 
-This Project is made on Unreal 5.2.0, Please use this or newer versions to run this one.
 
 # Unreal Quest 3 Scene Sample
 
 Welcome to the Unreal Quest 3 Scene Sample project! This repository provides a complete example of how to create a passthrough experience in Unreal Engine for the Oculus Quest 3 and introduces a unique shader that acts as a real-time occluder, enabling real-life objects to be seamlessly integrated into the virtual environment.
+
+Map out your Space / Highlight Scene Objects / Occlude them in Real Life / Go Crazy
+
+This Project is made on Unreal 5.2.0, Please use this or newer versions to run this one.
+
 
 ## Features
 
