@@ -19,6 +19,11 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
 
+
+``` bash
+git clone https://github.com/Ayushanbhore/Unreal-Quest3-SceneSample.git
+```
+
 2. **Install Unreal Engine**:
 Make sure you have Unreal Engine installed. If not, you can download it from [Unreal Engine](https://www.unrealengine.com/).
 
