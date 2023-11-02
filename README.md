@@ -6,7 +6,8 @@ Welcome to the Unreal Quest 3 Scene Sample project! This repository provides a c
 
 Map out your Space / Highlight Scene Objects / Occlude them in Real Life / Go Crazy
 
-This Project is made on Unreal 5.2.0, Please use this or newer versions to run this one.
+This Project is made on Unreal 5.2.0 OR LATEST ONE, Please use this or newer versions to run this one.
+
 
 
 ## Features
