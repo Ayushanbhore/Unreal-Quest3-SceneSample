@@ -8,9 +8,19 @@ Map out your Space / Highlight Scene Objects / Occlude them in Real Life / Go Cr
 
 This Project is made on Unreal 5.2.0 OR LATEST ONE, Please use this or newer versions to run this one.
 
+Table of Contents
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 
-## Features
+
+
+## Overview
 
 - **Passthrough Experience**: Enjoy a seamless passthrough experience on your Oculus Quest 3. Immerse yourself in a combination of the virtual and real worlds, enhancing your XR experiences.
 
