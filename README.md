@@ -83,6 +83,19 @@ Please note that you dont need a Quest 3 For Scene API Ready Experiences, Quest 
 ``` bash
 git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
 ```
+# Usage
+
+Hi , this project features a UI to setup your Scene for Mixed Reality.
+Just Build the file using Basic Android Settings and run it in Quest 3 for best experience.
+
+Things to do
+1) Click the Menu button on the Left Controller of your Quest to get the master control of your room.
+
+![](Images/E.png)
+
+2) Use the Occulsion Button to mask out the set object from the scene. You can notice that the ray from the joystick also vanishes at this point.
+
+
 
 # License
 This sample project is licensed under the MIT License. Feel free to modify and distribute it according to the terms of the license. See the [LICENSE](LICENSE) file for more details.
