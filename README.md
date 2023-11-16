@@ -84,7 +84,7 @@ Please note that you dont need a Quest 3 For Scene API Ready Experiences, Quest 
 git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
 ```
 
-## License
+# License
 This sample project is licensed under the MIT License. Feel free to modify and distribute it according to the terms of the license. See the [LICENSE](LICENSE) file for more details.
 
 
