@@ -19,7 +19,7 @@ Table of Contents
 
 
 
-## Overview
+# Overview
 
 This sample project showcases the integration of Passthrough, Depth API, and Mesh API provided by Oculus for the Meta Quest 3 VR headset within the Unreal Engine 5.1.1 environment. It demonstrates how to access and utilize real-time camera feed (passthrough), depth information, and mesh data to create AR experiences in the Unreal Engine environment for Oculus Quest 3 and also for Oculus Quest Pro
 
@@ -34,17 +34,17 @@ This sample project showcases the integration of Passthrough, Depth API, and Mes
 
 - **Masking Real-Life Objects into Virtual Reality**: A new feature allows you to mask real-life objects into virtual reality. This means that real-world objects can be seamlessly integrated into your VR experience, with the ability to cut them from the virtual environment, allowing you to see your VR content along with the masked reality.
 
-## Getting Started
+# Getting Started
 
 Before using this sample project, make sure you have the following prerequisites installed and set up:
 
-# Prerequisites
+## Prerequisites
 - Unreal Engine (version 5.2.0 or later)
 - MetaXR Plugin for Unreal Engine (51.0 , 53.0 , 54.0)
 - Meta Quest 3 Device or Meta Quest Pro Device
 - Meta Developer Account
 
-# Installation
+## Installation
 
 Follow these steps to run the sample project and explore the integration of Passthrough, Depth API, and Mesh API:
 
