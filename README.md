@@ -21,6 +21,9 @@ Table of Contents
 
 ## Overview
 
+This sample project showcases the integration of Passthrough, Depth API, and Mesh API provided by Oculus for the Meta Quest 3 VR headset within the Unreal Engine 5.1.1 environment. It demonstrates how to access and utilize real-time camera feed (passthrough), depth information, and mesh data to create AR experiences in the Unreal Engine environment for Oculus Quest 3 and also for Oculus Quest Pro
+
+
 - **Passthrough Experience**: Enjoy a seamless passthrough experience on your Oculus Quest 3. Immerse yourself in a combination of the virtual and real worlds, enhancing your XR experiences.
 
 - **Real-Time Occlusion**: The project includes a custom shader that effectively occludes real-life objects in the scene. This allows for interactions and integration of real-world objects with virtual content, creating a more immersive mixed reality environment.
@@ -42,90 +45,46 @@ Before using this sample project, make sure you have the following prerequisites
 - Meta Developer Account
 
 # Installation
+
+Follow these steps to run the sample project and explore the integration of Passthrough, Depth API, and Mesh API:
+
 1. Clone this repository to your local machine:
 
 ``` bash
 git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
 ```
-2. Open the project in Unreal Engine. Works Best with Unreal Engine 5.1.1 and later
+2. Open the project in Unreal Engine. Works Best with Unreal Engine 5.2.0 and later
 
 3. Download the MetaXR Plugin for your Engine 
-
 -> Preferably - 54.0 Version
+   
 ``` bash
 https://developer.oculus.com/downloads/package/unreal-engine-5-integration
 ```
 
 4. It is recommended to place the MetaXR Plugin in the Marketplace Folder inside your Unreal Engine Directory
 
-5. Launch Unreal Engine and Make Sure to Tick these Plugins in the Plugins Section
+5. Launch Unreal Engine and Make Sure to Tick Meta XR Plugin in the Plugins Section
 
  -> Please Uncheck Oculus VR Plugin or it may cause issues 
  
    ![](Images/D.png)
 
-
 7. Copy these settings in the Project Settings -> Plugins -> MetaXR -> Mobile Section of you Unreal Engine
    
-  
   ![](Images/MobileSettings.png)
 
-1. **Clone the Repository** to your local machine:
 
-``` bash
-git clone https://github.com/Ayushanbhore/Unreal-Quest3-SceneSample.git
-```
-
-2. **Install Unreal Engine**:
-Make sure you have Unreal Engine installed. If not, you can download it from [Unreal Engine](https://www.unrealengine.com/).
-
-3. **Open the Project in Unreal Engine**:
-Open Unreal Engine and load the project file located in the cloned repository.
-
-4. **Configure Oculus Quest 3**:
-Ensure that your Oculus Quest 3 is connected to your development environment, and that you've configured it for use with the Unreal Engine.
-
-5. **Build and Run**:
-Build the project and run it on your Oculus Quest 3. You should now be able to experience the passthrough and real-time occlusion features.
-
-6. **Customize and Extend**:
-Feel free to customize and extend the project to suit your specific needs. Modify the shader, add new virtual objects, or experiment with other Unreal Engine features.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-We would like to express our gratitude to the Unreal Engine community and Oculus for their contributions and support in making this project possible.
-
-## Support
-
-For any questions, issues, or feedback, please create a GitHub issue or contact us at [your@email.com].
-
-Enjoy your Unreal Quest 3 Scene Sample experience!
-
-
-# Overview
-This sample project showcases the integration of Passthrough, Depth API, and Mesh API provided by Oculus for the Meta Quest 3 VR headset within the Unreal Engine 5.1.1 environment. It demonstrates how to access and utilize real-time camera feed (passthrough), depth information, and mesh data to create AR experiences in the Unreal Engine environment for Oculus Quest 3 and also for Oculus Quest Pro
-
-
-# Usage
-
-Follow these steps to run the sample project and explore the integration of Passthrough, Depth API, and Mesh API:
-
-# Passthrough :
+## Passthrough Build :
 
 Follow my another Repository for Passthrough Setup, Alothough this might also have a passthrough but this one majorly foccuses on Scene Setup.
 Please note that you dont need a Quest 3 For Scene API Ready Experiences, Quest Pro and Quest 2 can also work out but for Depth API you definately need a Quest 3.
 
-1. Connect your Oculus Quest 3 device to your Development machine using a Link ( Link Cable Recommended over the Air Link).
+``` bash
+git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
+```
 
-2. Build and Deploy the project to your Oculus Quest 3 device using Unreal Engine.
-
-3. Put on your Oculus Quest 3 headset and experience the augmented reality environment created using Passthrough.
-
-# License
-This sample project is licensed under the MIT License. Feel free to modify and distribute it according to the terms of the license.
+## License
+This sample project is licensed under the MIT License. Feel free to modify and distribute it according to the terms of the license. See the [LICENSE](LICENSE) file for more details.
 
 
