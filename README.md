@@ -51,7 +51,7 @@ Follow these steps to run the sample project and explore the integration of Pass
 1. Clone this repository to your local machine:
 
 ``` bash
-git clone https://github.com/ayushanbhore/Unreal-Quest3-PassthroughSample.git
+git clone https://github.com/ayushanbhore/Unreal-Quest3-SceneSample.git
 ```
 2. Open the project in Unreal Engine. Works Best with Unreal Engine 5.2.0 and later
 
