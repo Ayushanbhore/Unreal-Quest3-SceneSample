@@ -95,6 +95,8 @@ Things to do
 
 2) Use the Occulsion Button to mask out the set object from the scene. You can notice that the ray from the joystick also vanishes at this point.
 
+3) Please Note that only 3-4 occlusion actors supported for now of the same domain, like if there are 8 tables in your room then only 3-4 will be occuluded (This is probably a bug will be fixed soon)
+
 
 
 # License
